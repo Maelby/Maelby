@@ -1,5 +1,5 @@
 ## Oi, eu sou Maelby Muniz
-#### 📚📕📖 Estou estudando Java (POO)!
+#### 📚📕📖 Back-End
 
 <div align="center">
   <a href="https://github.com/maelbymuniz">
@@ -7,8 +7,9 @@
   <img height="160em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelbymuniz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Muniz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Muniz-Eclipse" height="30" width="30" src= "https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"
+  <img align="center" alt="Muniz-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Muniz-Spring-Boot" height="30" width="30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" />
+  <img align="center" alt="Muniz-InteliJ" height="30" width="30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 </div>
   
   ##
