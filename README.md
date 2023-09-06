@@ -1,4 +1,4 @@
-## Oi, eu sou Maelby Muniz
+## Hi, I'm Maelby Muniz
 #### 📚📕📖 Back-End
 
 <div align="center">
