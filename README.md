@@ -1,12 +1,9 @@
 # Hi, I'm Maelby Muniz
 
-### 📚📕📖 Back-End Developer
+### 📚📕📖 
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Muniz-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Muniz-Spring-Boot" height="30" width="30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1024px-Spring_Boot.svg.png" />
-  <img align="center" alt="Muniz-InteliJ" height="30" width="30" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
   <img align="center" alt="Muniz-InteliJ" height="30" width="30" src= "https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Light.svg" />
  
 </div>
